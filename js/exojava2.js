@@ -39,7 +39,7 @@ const supp = document.querySelector("ul li:first-child");
 supp.remove();
 
 document.querySelector('ul li:nth-child(2)').remove()
-/* 
+ 
 function removeItem(textContentToRemove, coucou) {
     const listItems = document.querySelectorAll(".list li");
 
@@ -50,4 +50,4 @@ function removeItem(textContentToRemove, coucou) {
     });
 }
 
-removeItem("jeudi", "salut" ) */
+removeItem("jeudi", "salut" ) 
